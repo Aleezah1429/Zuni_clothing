@@ -16,11 +16,11 @@ It is a beautiful theme of gradient color and amazing Website which is build on 
 
 It consists of a beautiful carousel, Feature Products, top new deals, bottom to top button, online order and review of customer with detail footer. There are also some more pages which is link on home page.
 
-<img src="https://user-images.githubusercontent.com/64039135/138445738-ce409377-dfd3-45dd-9d5d-e6439a06d894.png" width="450px" height="900px" />
+<img src="https://user-images.githubusercontent.com/64039135/138445738-ce409377-dfd3-45dd-9d5d-e6439a06d894.png" width="430px" height="900px" />
 
 If you see more items so click the link and you get
 
-<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png" width="800px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png" width="350px" height="430px" />
 
 # About Us
 
@@ -45,11 +45,11 @@ Shop Page consists of 4 items:
 
 4.	**Other Things**
 
-<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png " width="370px" height="460px" />
+<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png " width="350px" height="430px" />
 
 All four items page contains cards about various dress or other things with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="500px" height="1300px" />
+<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="550px" height="1200px" />
 
 
 
