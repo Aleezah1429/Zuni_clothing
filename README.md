@@ -49,7 +49,7 @@ Shop Page consists of 4 items:
 
 All four items page contains cards about various dress or other things with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="350px" height="1250px" />
+<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="350px" height="1270px" />
 
 
 
