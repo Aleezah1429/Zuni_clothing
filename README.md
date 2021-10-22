@@ -20,7 +20,7 @@ It consists of a beautiful carousel, Feature Products, top new deals, bottom to 
 
 If you see more items so click the link and you get
 
-<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png" width="280px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png" width="450px" height="500px" />
 
 # About Us
 
@@ -45,11 +45,11 @@ Shop Page consists of 4 items:
 
 4.	**Other Things**
 
-<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png " width="280px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png " width="450px" height="500px" />
 
 All four items page contains cards about various dress or other things with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="370px" height="1250px" />
+<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="350px" height="1250px" />
 
 
 
